@@ -1,5 +1,7 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 .bg-fnav{
     background-color: #0d8c3c;
@@ -9,6 +11,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
+  }
+  .eytEstilo{
+    text-shadow: -1px -1px 0 black,  
+                      1px -1px 0 black,
+                     -1px  1px 0 black,
+                      1px  1px 0 black;
   }
   .presentacion{
     background-color: #1e4e94;
