@@ -24,7 +24,6 @@ body{
 .portafolio{
   background-color: #c3c3c3;
   background-size: cover;
-  justify-content: space-between;
   }
 .footer{
     display: flex;
