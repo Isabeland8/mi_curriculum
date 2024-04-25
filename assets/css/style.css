@@ -2,7 +2,7 @@ body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .bg-fnav{
-    background-color: #0d8c3c;
+    background-color: #228b30;
 }
 .header {
     background-image: url("../img/isabel.jpeg");
@@ -15,6 +15,12 @@ body{
     background-size: cover;
     text-align: justify;
   }
+.educacion{
+  background-color: #c3c3c3;
+  color:#1e4e94;
+  background-size: cover;
+  text-align: justify;
+}
 
 .footer{
     display: flex;
@@ -23,7 +29,4 @@ body{
     padding: 0;
     background-color: #f5e066;
     color: #1e4e94;
-}
-.portafolio{
-    justify-content: center;
 }
