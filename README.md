@@ -1,4 +1,4 @@
-Deploy: https://isabeland8.github.io/
+Deploy: https://isabelurrutia.github.io/prueba_c1_curriculum/
 
 Fork 1: https://github.com/Isabeland8/curriculum_manuel_horta_pizarro
 
